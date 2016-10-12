@@ -2,7 +2,7 @@
 
 ---
 
-## Feito por: 
+## Feito por Google Inc.: 
 
 ![](https://github.com/gleisonsdm/Web-Starter-Kit/blob/master/Figura%200%20(capa).png)
 
