@@ -389,15 +389,20 @@ O padrão de Modelo-Visão-Controlador separa a interação dos dados do sistema
 
 ##14. Referências
 * Google Developers: 
-https://developers.google.com/web/fundamentals/getting-started/web-starter-kit/?hl=pt-br
+https://developers.google.com/web/fundamentals/getting-started/web-starter-kit/?hl=pt-br 
+
 * Git Hub - Web Starter Kit:
-https://github.com/google/web-starter-kit
+https://github.com/google/web-starter-kit 
+
 * Web Design Tutplus:
-https://webdesign.tutsplus.com/pt/tutorials/get-up-and-running-with-google-web-starter-kit--cms-21495
-https://webdesign.tutsplus.com/tutorials/the-command-line-for-web-design-scaffolding-new-projects--cms-23456
+https://webdesign.tutsplus.com/pt/tutorials/get-up-and-running-with-google-web-starter-kit--cms-21495 
+https://webdesign.tutsplus.com/tutorials/the-command-line-for-web-design-scaffolding-new-projects--cms-23456 
+
 * Tableless:
-http://tableless.com.br/google-web-starter-kit/
+http://tableless.com.br/google-web-starter-kit/ 
+
 * Wikipedia - Software Architecture:
-https://en.wikipedia.org/wiki/Software_architecture
+https://en.wikipedia.org/wiki/Software_architecture 
+
 
 
