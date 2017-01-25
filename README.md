@@ -10,7 +10,7 @@
 
 ##Resumo:
 
-Uma ferramenta que facilite o desenvolvimento web, não sendo um framework mas sim auxiliando o desenvolvimento de software em um ambiente web, onde conseguir compreender as tarefas do servidor pode ser complexo dadas as demandas dos cliente. Com estes e outros propósitos, a ferramenta Web Starter Kit do Google permite programar de forma simples e eficiente, utilizando-se desde estilos de páginas padronizados a até atualização automática (dispensando o tradicional f5) e permitir o uso de ferramentas de compatibilidade com diversos navegadores / dispositivos.
+Uma ferramenta que facilite o desenvolvimento web, não sendo um framework mas sim auxiliando o desenvolvimento de software em um ambiente web, onde conseguir compreender as tarefas do servidor pode ser complexo dadas as demandas dos cliente. Com estes e outros propósitos, a ferramenta Web Starter Kit do Google permite programar de forma simples e eficiente, utilizando-se desde estilos de páginas padronizados a até atualização automática (dispensando o tradicional f5) e também permite o uso de ferramentas de compatibilidade com diversos navegadores / dispositivos.
 
 ---
 
@@ -35,9 +35,9 @@ Uma ferramenta que facilite o desenvolvimento web, não sendo um framework mas s
 
 ##1. Descrição:
 
-Web Starter Kit é um ponto de partida para o desenvolvimento web multi-screen. Ela engloba recomendações para a construção de uma experiência que pode ser utilizado em vários dispositivos. 
+Web Starter Kit é um ponto de partida para o desenvolvimento web multi-screen. Ela engloba recomendações para a construção de uma experiência que pode ser auxiliar na utilização de vários dispositivos. 
 
-O lançamento do Web Starter Kit do Google trouxe uma série de templates e ferramentas que focam na problemas de performance de e  desenvolvimento multi-screen. O Google, então, através dessa ferramenta, possibilita uma otimização da performance de aplicativos web. 
+O lançamento do Web Starter Kit do Google trouxe uma série de templates e ferramentas que focam nos problemas de performance e  desenvolvimento multi-screen. O Google, então, através dessa ferramenta, possibilita uma otimização da performance de aplicativos web. 
 
 Como um produto do Google, a ferramenta permite simplificar processos os executados por seus usuários para obter resultados de qualidade, neste caso criar um código web de forma simples explorando funcionalidades que agregam valor ao projeto. 
 
@@ -56,7 +56,7 @@ Responsive Boilerplate :
 
 a. É uma ferramenta responsável por utilizar um poderoso template de HTML, que permite ao usuário criar interfaces de design mais avançadas. 
 
-b. Suporte SSAS : O suporte a SSAS permite utilizar SSAS em CSS com facilidade, podendo se até criar variáveis. Para produzir se pode executar ' gulp serve' ou 'gulp' . 
+b. Suporte SSAS : O suporte a SSAS permite utilizar SSAS em CSS com facilidade, podendo se até criar variáveis. Para produzir podem ser executados ' gulp serve' ou 'gulp' . 
 
 c. Otimização de Desempenho : Permite reduzir e concatenar Javascript, CSS, HTML e imagens para ajudar a manter sua página enxuta, ou seja, blocos de código modularizados e de tamanho suficiente para outros desenvolvedores o compreenderem. Executar 'gulp' para criar uma versão otimizada do seu projeto (to / dist). 
 
@@ -103,9 +103,9 @@ Explorar funcionalidades de diferentes dispositivos no projeto permite aos desen
 
 Para utilizar o Google Web Starter Kit é necessário baixar os arquivos do repositório do Google, mas é aconselhável que algumas ferramentas sejam instaladas, de forma a explorar melhor os recursos do mesmo. Dentre as ferramentas a serem instaladas: 
 
-* Git : utiliza-se o github para obter o código através de uma clonagem do repositório, através do pacote Zip. Para tal, basta utilizar o comando git clone no prompt de comando, seguinte da url correspondente ao repositório. Caso o aplicativo do GitHub seja utilizado, basta apertar o botão Clone in Desktop, na página do repositório. 
+* Git : utiliza-se o github para obter o código através de uma clonagem do repositório, através do pacote Zip. Para fazer isto, basta utilizar o comando git clone, na url correspondente ao repositório. Caso o aplicativo do GitHub seja utilizado, basta apertar o botão Clone in Desktop, na página do repositório. 
 
-* Node.js : algumas das ferramentas utilizadas no Web Starter Kit são para Node.js, como o JSLinter, sendo instaladas através do Node Package Manager (NPM). Para instalar o node, basta acessar a página oficial nodeJS.org e realizar a instalação do mesmo, em sua última versão. 
+* Node.js : algumas das ferramentas utilizadas no Web Starter Kit são para Node.js, como o JSLinter, sendo elas instaladas através do Node Package Manager (NPM). Para instalar o node, basta acessar a página oficial nodeJS.org e realizar a instalação do mesmo, em sua última versão. 
 
 Para verificar se a ferramenta já está instalada no computador, basta digitar o seguinte comando no terminal ou cmd: 
 
@@ -124,7 +124,7 @@ Esse comando retorna a versão do node instalada no computador. Caso ela esteja 
 * Gulp : essa ferramenta é utilizada para lidar com algumas tarefas durante o desenvolvimento. Para instalá-lo, e tendo em vista que o Node.js já se encontra instalado na máquina, basta dar o comando npm install -g gulp.
 Para instalar dependências locais do Web Starter Kit:
 
-	cd web-starter-kit 
+	cd < pasta do web-starter-kit >
 	npm install 
 
 O Gulp é um executador de tarefas que as automatiza durante o desenvolvimento, tentando facilitar o desenvolvimento. Para usar o Gulp normalmente é necessário especificar e configurar suas tarefas no arquivo gulpfile.js, mas, uma vez que o Web Starter Kit já faz isso automaticamente, é possível executar as tarefas do Gulp imediatamente, sem realizar nenhuma configuração adicional. 
