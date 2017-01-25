@@ -10,7 +10,7 @@
 
 ##Resumo:
 
-Uma ferramenta que facilite o desenvolvimento web, não sendo um framework mas sim auxiliando o desenvolvimento de software em um ambiente web, onde conseguir compreender as tarefas do servidor pode ser complexo dadas as demandas dos cliente. Com estes e outros propósitos, a ferramenta Web Starter Kit do Google permite programar de forma simples e eficiente, utilizando-se desde estilos de páginas padronizados a até atualização automática (dispensando o tradicional f5) e também permite o uso de ferramentas de compatibilidade com diversos navegadores / dispositivos.
+A ferramenta Web Starter Kit tem como objetivo facilitar o desenvolvimento web, não sendo apenas um framework mas também visando conseguir compreender as tarefas do servidor,o que pode ser complexo dadas as demandas dos cliente. Com estes e outros propósitos, a ferramenta Web Starter Kit desenvolvida pelo Google permite programar de forma simples e eficiente, utilizando-se desde estilos de páginas padronizados a até atualização automática (dispensando o tradicional f5) e também permite o uso de ferramentas de compatibilidade com diversos navegadores / dispositivos.
 
 ---
 
@@ -189,7 +189,7 @@ app | diretório onde todos os códigos não minimizados ficarão.
 Analisando internamente a pasta app, temos o seguinte conteúdo:
 
 Arquivo / Pasta | Descrição das informações
---------- | ------- 
+--------- | -------
 apple-touch-icon-precomposed.png
 favicon.ico |  ícones de favoritos;
 humans.txt | informações sobre a equipe de produção do projeto;
