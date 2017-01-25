@@ -190,8 +190,7 @@ Analisando internamente a pasta app, temos o seguinte conteúdo:
 
 Arquivo / Pasta | Descrição das informações
 --------- | -------
-apple-touch-icon-precomposed.png
-favicon.ico |  ícones de favoritos;
+apple-touch-icon-precomposed.png favicon.ico |  ícones de favoritos;
 humans.txt | informações sobre a equipe de produção do projeto;
 robots.txt | configuração para robôs de busca;
 manifest.webapp | metadados do projeto;
