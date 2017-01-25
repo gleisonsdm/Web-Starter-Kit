@@ -190,7 +190,7 @@ Analisando internamente a pasta app, temos o seguinte conteúdo:
 
 Arquivo / Pasta | Descrição das informações
 --------- | -------
-apple-touch-icon-precomposed.png favicon.ico |  ícones de favoritos;
+apple-touch-icon-precomposed.png / favicon.ico |  ícones de favoritos;
 humans.txt | informações sobre a equipe de produção do projeto;
 robots.txt | configuração para robôs de busca;
 manifest.webapp | metadados do projeto;
@@ -293,20 +293,19 @@ Angular.js é um plugin que permite ao desenvolvedor criar aplicações web inte
 
 ##10. Ferramentas
 
-* Boilerplate responsivo
+* **Boilerplate responsivo: **
 O Web Started Kit possui um arquivo HTML e um CSS inicial que é utilizado como base para o desenvolvimento de projetos. O HTML inclui algumas meta-tags e snippets úteis pré-prontos como Google Analytics, por exemplo.
-* Guia de Estilos
+* **Guia de Estilos: **
 O Guia de Estilos é utilizado para auxiliar na documentação dos componentes do sistema através de opções de tipografia, cores, botões, grids,  tabelas, etc.
-* Recarga de dados presentes no browser em tempo real
+* **Recarga de dados presentes no browser em tempo real: **
 O Web Started Kit possibilita que todo documento seja recarregado no browser automaticamente enquanto editado.
-* Sincronização multi-dispositivo
+* **Sincronização multi-dispositivo: **
 Todos os seus dispositivos ficam conectados na mesma rede local, de forma que possibilite a sincronização simultânea dos navegadores, observado através de cliques, scrolls, formulários e reload. 
-
-* Otimização de Performance
+* **Otimização de Performance: **
 Minificação de JS, CSS, HTML e Imagens em uma ferramenta só. 
-* JSHint
+* **JSHint: **
 JSHint é uma ferramenta que analisa determinado código JavaScript para verificar possíveis problemas com sua lógica, aplicando as práticas recomendadas de codificação. A ferramenta é executada sempre que o projeto é compilado ou, se estiver executando o gulp server, sempre que uma alteração em um arquivo JavaScript é realizada.
-* Suporte a SASS
+* **Suporte a SASS: **
 Enquanto o comando serve estiver sendo executado, qualquer alteração realizada em qualquer arquivo Sass no projeto será compilada no CSS e prefixada. Depois disso, a página será recarregada com o Live Reload.
 
 ---
@@ -319,7 +318,7 @@ O projeto possui um modularização bem definida, contendo pastas onde é possí
 * docs: Diretório com os arquivos necessários para utilizar a ferramenta. Entretanto, existe um arquivo específico para cada necessidade.
 * app: Pasta que contém os arquivos fonte da ferramenta. Dividido em imagens, scripts e styles. Além disto, alguns arquivos com código estão agrupados.
 * styles: Arquivos que definem o layout e o estilo dos documentos são agrupados aqui.
-scripts: Arquivos de processamento javascript necessários a ferramenta (possui um subdiretório sw).
+* scripts: Arquivos de processamento javascript necessários a ferramenta (possui um subdiretório sw).
 * sw: Os arquivos aqui agrupados permitem fazer caching em tempo de execução (uma tarefa específica).
 * images: Arquivos visuais (imagens) utilizadas pela ferramenta estão agrupados aqui.
 * touch: Imagens com o propósito de ser utilizadas em alguns dispositivos como icones são agrupados aqui. 
