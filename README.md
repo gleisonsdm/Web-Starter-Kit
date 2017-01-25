@@ -293,20 +293,13 @@ Angular.js é um plugin que permite ao desenvolvedor criar aplicações web inte
 
 ##10. Ferramentas
 
-* **Boilerplate responsivo: **
-O Web Started Kit possui um arquivo HTML e um CSS inicial que é utilizado como base para o desenvolvimento de projetos. O HTML inclui algumas meta-tags e snippets úteis pré-prontos como Google Analytics, por exemplo.
-* **Guia de Estilos: **
-O Guia de Estilos é utilizado para auxiliar na documentação dos componentes do sistema através de opções de tipografia, cores, botões, grids,  tabelas, etc.
-* **Recarga de dados presentes no browser em tempo real: **
-O Web Started Kit possibilita que todo documento seja recarregado no browser automaticamente enquanto editado.
-* **Sincronização multi-dispositivo: **
-Todos os seus dispositivos ficam conectados na mesma rede local, de forma que possibilite a sincronização simultânea dos navegadores, observado através de cliques, scrolls, formulários e reload. 
-* **Otimização de Performance: **
-Minificação de JS, CSS, HTML e Imagens em uma ferramenta só. 
-* **JSHint: **
-JSHint é uma ferramenta que analisa determinado código JavaScript para verificar possíveis problemas com sua lógica, aplicando as práticas recomendadas de codificação. A ferramenta é executada sempre que o projeto é compilado ou, se estiver executando o gulp server, sempre que uma alteração em um arquivo JavaScript é realizada.
-* **Suporte a SASS: **
-Enquanto o comando serve estiver sendo executado, qualquer alteração realizada em qualquer arquivo Sass no projeto será compilada no CSS e prefixada. Depois disso, a página será recarregada com o Live Reload.
+* Boilerplate responsivo: O Web Started Kit possui um arquivo HTML e um CSS inicial que é utilizado como base para o desenvolvimento de projetos. O HTML inclui algumas meta-tags e snippets úteis pré-prontos como Google Analytics, por exemplo. 
+* Guia de Estilos: O Guia de Estilos é utilizado para auxiliar na documentação dos componentes do sistema através de opções de tipografia, cores, botões, grids,  tabelas, etc. 
+* Recarga de dados presentes no browser em tempo real: O Web Started Kit possibilita que todo documento seja recarregado no browser automaticamente enquanto editado. 
+* Sincronização multi-dispositivo: Todos os seus dispositivos ficam conectados na mesma rede local, de forma que possibilite a sincronização simultânea dos navegadores, observado através de cliques, scrolls, formulários e reload. 
+* Otimização de Performance: Minificação de JS, CSS, HTML e Imagens em uma ferramenta só. 
+* JSHint: JSHint é uma ferramenta que analisa determinado código JavaScript para verificar possíveis problemas com sua lógica, aplicando as práticas recomendadas de codificação. A ferramenta é executada sempre que o projeto é compilado ou, se estiver executando o gulp server, sempre que uma alteração em um arquivo JavaScript é realizada. 
+* Suporte a SASS: Enquanto o comando serve estiver sendo executado, qualquer alteração realizada em qualquer arquivo Sass no projeto será compilada no CSS e prefixada. Depois disso, a página será recarregada com o Live Reload. 
 
 ---
 
