@@ -107,6 +107,8 @@ Para utilizar o Google Web Starter Kit é necessário baixar os arquivos do repo
 
 * Node.js : algumas das ferramentas utilizadas no Web Starter Kit são para Node.js, como o JSLinter, sendo elas instaladas através do Node Package Manager (NPM). Para instalar o node, basta acessar a página oficial nodeJS.org e realizar a instalação do mesmo, em sua última versão. 
 
+Node.js é uma plataforma construída sobre o motor JavaScript do Google Chrome para facilmente construir aplicações de rede rápidas e escaláveis. Node.js usa um modelo de I/O direcionada a evento não bloqueante que o torna leve e eficiente, ideal para aplicações em tempo real com troca intensa de dados através de dispositivos distribuídos.
+
 Para verificar se a ferramenta já está instalada no computador, basta digitar o seguinte comando no terminal ou cmd: 
 
 	node -v 
@@ -116,6 +118,8 @@ Esse comando retorna a versão do node instalada no computador. Caso ela esteja 
 * Ruby e Sass : o Web Starter Kit usa o gulp-ruby-sass para compilar o Sass em CSS, o que requer tanto o Ruby quanto o Sass para funcionar. Caso o Sistema Operacional utilizado seja o OS X ou Linux, o Ruby já deve estar instalado na máquina. Caso seja Windows, basta usar o RubyInstaller para instalar o Ruby, e, em seguida, executar o comando execute gem install sass na linha de comando para instalar o Sass. Assim como no Node.js, para verificar se a ferramenta Ruby já está instalada no computador, basta digitar o seguinte comando: 
 
 	ruby -v 
+
+Ruby é uma linguagem de programação interpretada multiparadigma, de tipagem dinâmica e forte, com gerenciamento de memória automático, originalmente planejada e desenvolvida no Japão em 1995, por Yukihiro "Matz" Matsumoto, para ser usada como linguagem de script.
 
 É possível também instalar o Sass por meio de um instalador disponibilizado em seu site oficial http://sass-lang.com/install. E para verificar se a ferramenta Sass já está instalada no computador, basta digitar o seguinte comando no terminal ou cmd: 
 
@@ -218,11 +222,14 @@ Dentre as linguagens utilizadas, podem ser citadas as seguintes:
 * CSS (Cascading Style Sheets) : Linguagem utilizada para definir o estilo de páginas escritas em uma linguagem de marcação.
 * JavaScript : Uma linguagem de programação interpretada. Comumente utilizada para retratar e executar eventos complexos.
 
+Dentre as ferramentas do web-starter-kit temos o Boilerplate responsivo, onde temos um arquivo HTML e um CSS inicial para servir de base para os seus projetos. O HTML inclui diversas meta-tags e alguns snippets úteis pré-prontos como Google Analytics, por exemplo. Já a ferramenta Node é uma plataforma para desenvolver aplicações server-side escaláveis utilizando JavaScript.
 ---
 
 ##7. Equipe de desenvolvimento 
 
 Para que uma pessoa seja considerada contribuidora e desenvolvedora no projeto, ela deve criar uma “issue”, ou seja, reportar um problema encontrado por ele na página https://github.com/google/web-starter-kit/issues. Cada relatório enviado deve trazer uma justificativa sobre o porquê de se incluir determinado código/função e/ou modificar outro. O Web Starter Kit é um projeto opinativo e, como tal, os relatos enviados que adicionam suporte com opções alternativas para o que já está prescrito não são garantidos, devendo ser validados. 
+
+Os issues reportados são categorizados de acordo com o tipo de problema encontrado. Dentre os tipos de problemas temos de acessibilidade, erro (bug), estilo do código, documentação, códigos duplicados e/ou inválidos, pergunta, revisão, entre outros. Pelo fato de não haver um pré-requisito para que a cada nossa issue encontrada ela seja categorizada, poucos deles são etiquetados pelos contribuidores. Dentre as issues reportadas o Google web-starter-kit, grande parte é categorizada como de documentação, pergunta, revisão e melhoria.
 
 Com base em razões de legalidade, todos os contribuidores devem assinar os termos de licença do contribuidores, sendo para indivíduos ou corporações, antes que o que foi proposto seja aceito. 
 
@@ -244,6 +251,8 @@ Com relação aos membros desenvolvedores, os dois principais, com respectivamen
 ---
 
 ##8. Descrição da evolução do sistema 
+
+A primeira release foi lançada em Junho de 2014, e com poucas diferenças de meses são lançadas novas, até que em dezembro de 2016 foi lançada a versão v0.6.5. As versões 1 e 2 eram apenas beta, sendo que da versão 3 em diante a aplicação se tornou consistente.
 
 Abaixo, uma breve descrição das principais Releases do software, sendo que a cada Release pode-se acompanhar a evolução do projeto: 
 * Release 0.6.0 : Nesta release, Web Started Kit foi completamente refatorado e repensado para utilizar o material Design Lite. O modelo padronizado é o modelo apenas textual, que acompanha o material Design Spec e é testado para integração a diversos dispositivos. Você pode utilizar números dos templates MDL ou customizar o design default para que a aplicação que está sendo desenvolvida possa atender as necessidades propostas.
